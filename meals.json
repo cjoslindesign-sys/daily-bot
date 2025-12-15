@@ -1,0 +1,30 @@
+{
+  "Monday": {
+    "lift": false,
+    "meal2": "Wawa grilled chicken salad"
+  },
+  "Tuesday": {
+    "lift": true,
+    "meal2": "Chipotle bowl"
+  },
+  "Wednesday": {
+    "lift": true,
+    "meal2": "Chick-fil-A grilled nuggets"
+  },
+  "Thursday": {
+    "lift": false,
+    "meal2": "Wawa turkey or grilled chicken Shorti"
+  },
+  "Friday": {
+    "lift": true,
+    "meal2": "Wendy's grilled chicken wraps"
+  },
+  "Saturday": {
+    "lift": false,
+    "meal2": "Grilled chicken salad or Chipotle bowl"
+  },
+  "Sunday": {
+    "lift": false,
+    "meal2": "Chicken + vegetables"
+  }
+}
